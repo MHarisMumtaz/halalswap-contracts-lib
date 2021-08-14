@@ -1,6 +1,7 @@
-# halalswap-contracts-lib
+# Pancake Swap Lib
 
-Solidity libraries that are shared across Halalswap contracts. These libraries are focused on safety and gas efficiency.
+
+Solidity libraries that are shared across Uniswap contracts. These libraries are focused on safety and gas efficiency.
 
 ## Install
 
